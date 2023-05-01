@@ -1,0 +1,13 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.blog-list-container {
+  width: 100%;
+  padding-left: 68px;
+  padding-right: 68px;
+}

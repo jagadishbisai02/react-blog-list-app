@@ -1,0 +1,42 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+}
+
+.blog-item-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 3px;
+  margin: 0px;
+}
+
+.content-container {
+  text-align: left;
+}
+
+.content-title {
+  color: #12022f;
+  font-size: 25px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.content-description {
+  color: #616e7c;
+  font-size: 16px;
+  font-family: 'Roboto';
+}
+
+.published-date {
+  color: #616e7c;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
+
+.horizontal-line {
+  width: 100%;
+  border: 1px solid #9aa5b1;
+}

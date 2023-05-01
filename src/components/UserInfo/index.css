@@ -1,0 +1,24 @@
+.profile-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile-img {
+  width: 80px;
+  height: 80px;
+}
+
+.profile-name {
+  color: #12022f;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.profile-role {
+  color: #616e7c;
+  font-size: 13px;
+  font-family: 'Roboto';
+}
